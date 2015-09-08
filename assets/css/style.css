@@ -1,7 +1,10 @@
 #main-container {
-	background-image: url(../img/BERKELEY.jpg);
-	width: 20%;
-	height: 50%;
-
+	body#background {
+  background: url(assets/img/homepage.jpg) no-repeat 50% 50% fixed; 
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+	}
 }
 
