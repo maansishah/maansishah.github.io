@@ -50,11 +50,11 @@
 		}
 		
 		div{
-			width: 80%;
+			width: 60%;
 			display: table-cell;
-			margin: 5%;
-			padding: 2%;
-			border: double, #5B5C63, 2%;
+			margin: 2%;
+			padding: 1%;
+			border: double, #5B5C63, 1%;
 		}
 
 	</style>
