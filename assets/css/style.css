@@ -46,11 +46,12 @@
 		
 		footer{
 			text-align: center;
+			display: table;
 		}
 		
 		div{
 			width: 80%;
-			display: inline-block;
+			display: table-cell;
 		}
 
 	</style>
