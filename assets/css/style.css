@@ -8,13 +8,17 @@ h1{
 	font-family: "Open Sans", Lato, Helvetica;
 	font-variant: small-caps;
 	font-size: 150%
+	
 	text-align: center;
+	
 }
 
 h6{
 	font-family: Lato, Helvetica;
 	font-size: 80%
+	
 	text-align: center;
+	
 	background: black;
 	color: white;
 }
