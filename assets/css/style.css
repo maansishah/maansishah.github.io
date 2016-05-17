@@ -52,8 +52,10 @@
 		div{
 			display: table-cell;
 			margin: 2%;
-			width: 20%;
-			height: 20%;
+		}
+		
+		img{
+			width: 30%;
 		}
 
 	</style>
