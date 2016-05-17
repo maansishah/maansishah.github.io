@@ -52,6 +52,9 @@
 		div{
 			width: 80%;
 			display: table-cell;
+			margin: 5%;
+			padding: 2%;
+			border: double, #5B5C63, 2%;
 		}
 
 	</style>
