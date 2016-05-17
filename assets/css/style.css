@@ -4,7 +4,20 @@
 }*/
 <head>
 	<style>
-
+		.enjoy-css {
+  			-webkit-box-sizing: content-box;
+  			-moz-box-sizing: content-box;
+  			box-sizing: content-box;
+  			bottom: 0;
+			margin: 0 30px;
+  			border: none;
+  			font: normal 400%/2 "alex-brush", Helvetica, sans-serif;
+  			color: rgba(90,90,90,1);
+  			text-align: center;
+  			-o-text-overflow: ellipsis;
+  			text-overflow: ellipsis;
+		}
+		
 		h1{
 			color: white;
 			font-family: "Open Sans", Lato, Helvetica;
