@@ -45,10 +45,8 @@
 		}
 		
 		footer{
-			element.style {
-				width: 60%;
-				display: inline-block;
-			}
+			display: inline-block;
+			width: 50%;
 		}
 
 	</style>
