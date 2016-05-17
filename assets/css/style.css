@@ -19,7 +19,7 @@
 		}
 		
 		h1{
-			color: white;
+			color: #5B5C63;
 			font-family: "Open Sans", Lato, Helvetica;
 			font-variant: small-caps;
 			font-size: 200%;
@@ -29,9 +29,8 @@
 		h6{
 			font-family: "Open Sans", Helvetica;
 			font-size: 80%;
-			text-align: justify;
-			background: #5B5C63;
-			color: white;
+			text-align: center;
+			color: #5B5C63;
 		}
 
 		p{
