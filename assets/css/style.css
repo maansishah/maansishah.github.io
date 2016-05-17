@@ -54,6 +54,10 @@
 			display: table-cell;
 			margin: 2%;
 		}
+		
+		img{
+			width: 20%;
+		}
 
 	</style>
 </head>
