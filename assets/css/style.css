@@ -15,7 +15,7 @@
 		
 		h2{
   			font-size: 400%;
-  			font-family: "alex-brush", "Dancing Script" Helvetica;
+  			font-family: "alex-brush", "Dancing Script", Helvetica;
   			color: rgba(90,90,90,1);
   			text-align: center;
 		}
