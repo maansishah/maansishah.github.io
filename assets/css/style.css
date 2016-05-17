@@ -47,6 +47,11 @@
 		footer{
 			text-align: center;
 		}
+		
+		div{
+			width: 100%;
+			display: inline-block;
+		}
 
 	</style>
 </head>
