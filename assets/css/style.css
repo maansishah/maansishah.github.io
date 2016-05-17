@@ -4,6 +4,15 @@
 }*/
 <head>
 	<style>
+		@font-face{
+			font-family: "alex-brush";
+			src: "http://use.edgefonts.net/alex-brush.js";
+		}
+		
+		@import url(//fonts.googleapis.com/css?family=Open+Sans);
+		
+		src="http://use.edgefonts.net/alex-brush.js"
+		
 		h2{
   			font-size: 400%;
   			font-family: "alex-brush", Helvetica;
