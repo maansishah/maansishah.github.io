@@ -6,7 +6,7 @@
 	<style>
 		@font-face{
 			font-family: "alex-brush";
-			src: "http://use.edgefonts.net/alex-brush.js";
+			src: url(AlexBrush-Regular.ttf);
 		}
 		
 		@import url(//fonts.googleapis.com/css?family=Open+Sans);
