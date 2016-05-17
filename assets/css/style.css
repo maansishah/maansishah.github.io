@@ -43,6 +43,10 @@
 			text-align: left;
 			color: #5B5C63;
 		}
+		
+		span{
+			width: 25%;
+		}
 
 	</style>
 </head>
