@@ -59,11 +59,13 @@
 		
 		a{
 			color: #5B5C63;
+			text-decoration: none;
 		}
 		
 		a:hover{
 			color: #3C71AB;
 			font-weight: bold;
+			text-decoration: none;
 		}
 
 	</style>
