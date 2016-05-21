@@ -50,9 +50,10 @@
 		h6{
 			font-family: "Open Sans", Helvetica;
 			font-size: 80%;
+			font-variant: small-caps;
 			text-align: center;
 			color: white;
-			word-spacing: 5em;
+			word-spacing: 10em;
 			padding: 2%;
 		}
 
