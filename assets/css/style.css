@@ -83,12 +83,12 @@
 		}
 		
 		a{
-			color: white;
+			color: #009688;
 			text-decoration: none;
 		}
 		
 		a:hover{
-			color: #009688;
+			color: white;
 			font-weight: bold;
 			text-decoration: none;
 		}
