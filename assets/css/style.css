@@ -12,6 +12,7 @@
 			width: 200%; 
 			height: 200%;
 			background: url(assets/img/10364133_10204343691892878_4476053671706035897_n.jpg);
+			z-index: 0;
 		}
 		
 		#bg img {
@@ -23,6 +24,7 @@
 			margin: 0; 
 			min-width: 100%;
 			opacity: 0.5;
+			z-index: 0;
 		}
 		
 		header{
@@ -52,7 +54,7 @@
 			font-size: 80%;
 			font-variant: small-caps;
 			text-align: center;
-			color: white;
+			color: blue;
 			word-spacing: 10em;
 			padding: 2%;
 		}
