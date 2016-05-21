@@ -43,7 +43,8 @@
 			font-family: "Open Sans", Helvetica;
 			font-size: 80%;
 			text-align: right;
-			display: table-cell;
+			margin: 5%;
+			display: inline-block;
 		}
 
 		h6{
