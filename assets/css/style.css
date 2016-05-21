@@ -46,8 +46,6 @@
 			font-size: 100%;
 			text-align: right;
 			display: inline-block;
-			background: #009688;
-			padding: 2%;
 		}
 
 		h6{
@@ -55,9 +53,10 @@
 			font-size: 100%;
 			font-variant: small-caps;
 			text-align: center;
-			color: blue;
+			color: white;
 			word-spacing: 10em;
 			padding: 2%;
+			background: rgba(0,150,136,0.4);
 		}
 
 		p{
