@@ -11,7 +11,7 @@
 			left: -50%; 
 			width: 200%; 
 			height: 200%;
-			background: url(assets/img/10364133_10204343691892878_4476053671706035897_n.jpg);
+			background: url(assets/img/IMG_0035.jpg);
 			z-index: -1;
 		}
 		
@@ -50,13 +50,13 @@
 
 		h6{
 			font-family: "Open Sans", Helvetica;
-			font-size: 100%;
+			font-size: 120%;
 			font-variant: small-caps;
 			text-align: center;
 			color: white;
 			word-spacing: 10em;
 			padding: 2%;
-			background: rgba(0,150,136,0.4);
+			background: rgba(3, 45, 41, 0.51);
 		}
 
 		p{
