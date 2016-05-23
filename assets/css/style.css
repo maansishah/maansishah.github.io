@@ -31,7 +31,7 @@
 		}
 		
 		h3{
-			color: #8A2121;
+			color: black;
 			font-family: Raleway, "Open Sans", Helvetica;
 			font-size: 120%;
 			text-align: center;
@@ -42,6 +42,8 @@
 			font-size: 120%;
 			position: absolute;
 			top: 0;
+			right:0;
+			left:0;
 			text-align: center;
 			color: white;
 			word-spacing: 7em;
