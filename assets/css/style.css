@@ -23,7 +23,7 @@
 		}
 		
 		h2{
-  			font-size: 500%;
+  			font-size: 600%;
   			font-family: Quicksand;
   			color: gray;
   			text-align: center;
@@ -31,10 +31,12 @@
 		}
 		
 		h3{
-			color: black;
+			color: gray;
 			font-family: Raleway, "Open Sans", Helvetica;
-			font-size: 120%;
+			font-size: 180%;
 			text-align: center;
+			margin-left: 25%;
+			margin-right: 25%;
 		}
 
 		h6{
@@ -42,14 +44,16 @@
 			font-size: 120%;
 			position: absolute;
 			top: 0;
-			right:0;
-			left:0;
+			right: 0;
+			left: 0;
 			text-align: center;
 			color: white;
 			word-spacing: 7em;
 			padding: 2%;
 			background: rgba(0, 0, 0, 0.6);
 			width: 100%;
+			margin-right: 0;
+			margin-left: 0;
 		}
 
 		p{
