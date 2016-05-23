@@ -3,8 +3,8 @@
 		
 		#bg {
 			position: fixed; 
-			top: -50%; 
-			left: -50%; 
+			top: 0%; 
+			left: 0%; 
 			width: 200%; 
 			height: 200%;
 			background: url(assets/img/IMG_0035.jpg);
@@ -41,7 +41,7 @@
 			font-family: Raleway, "Open Sans", Helvetica;
 			font-size: 120%;
 			position: absolute;
-			top: 0%;
+			top: 0;
 			text-align: center;
 			color: white;
 			word-spacing: 7em;
