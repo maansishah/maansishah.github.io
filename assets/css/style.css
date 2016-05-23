@@ -61,16 +61,7 @@
 			text-align: center;
 			color: #04354C;
 		}
-		
-		footer{
-			text-align: center;
-			display: table;
-		}
-		
-		div{
-			display: table-cell;
-		}
-		
+
 		img{
 			display: inline-block;
 			margin: 8px;
